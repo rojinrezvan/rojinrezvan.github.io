@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year Ph.D. candidate at University of Texas Austin in the  [Theory](https://www.cs.utexas.edu/act) group in the department of Computer Science, where I am advised by [Shuchi Chawla](https://www.cs.utexas.edu/~shuchi/). 
+I am a final-year Ph.D. candidate at University of Texas Austin at the  [Theory](https://www.cs.utexas.edu/act) group in the department of Computer Science, where I am advised by [Shuchi Chawla](https://www.cs.utexas.edu/~shuchi/). 
 Before UT Austin, I received my M.Sc. in Computer Science from [University of Wisconsin-Madison](https://www.cs.wisc.edu/) and B.Sc. in Computer Engineering and a minor in Mathematics from [Sharif University of Technology](http://www.en.sharif.edu/).
 In Fall 2022, I interned at Google Research, hosted by Gagan Aggarwal and Kshipra Bhawalkar.
 
-**News**: I am curently in job market!
+**News**: I am curently on the job market!
 
 My research is on algorithmic game theory and mechanism design. I particularly work on multi-dimensional mechanism design and the paradigm of simple vs. optimal, as well as resource and ad allocation under fairness constraints.
 
@@ -35,7 +35,7 @@ Email: rojinrezvan@utexas.edu
 
 
 **Prophet Secretary Against the Online Optimal**
-*with Paul Dütting, Evangelia Gergatsouli, Yifeng Teng and Alexandros Tsigonias-Dimitriadis *\
+* with Paul Dütting, Evangelia Gergatsouli, Yifeng Teng and Alexandros Tsigonias-Dimitriadis *\
 ACM Conference on Economics and Computation (EC'23). [\[paper\]](https://arxiv.org/abs/2305.11144)
 
 
@@ -62,11 +62,11 @@ For the full list of my publications, [click here](https://rojinrezvan.github.io
 <div style="margin-left: 20px;"> 
      <ul>
        
-<li> <span style="color: gray">Now</span>: I am currently on the job market for postdoc positions in Computer Science, Operations Research and Business School!</li>
+<li> <span style="color: gray">Now</span>: I am currently on the job market for postdoc positions in Computer Science, Operations Research and Business School.</li>
 
-<li> <span style="color: gray">December 2024</span>: I was a speaker at the Junior Theorist Workshop <a href="https://theory.cs.northwestern.edu/junior-theorists-workshop-2024/"> held at Northwestern university and TTIC.</li>
+<li> <span style="color: gray">December 2024</span>: I was a speaker at the Junior Theorist Workshop held at Northwestern university and TTIC. <a href="https://theory.cs.northwestern.edu/junior-theorists-workshop-2024/">  </li>
 
-<li> <span style="color: gray">Fall 2022</span>: <a href="https://simons.berkeley.edu/programs/graph2022">[Intern]</a> at Google Research, Market Algorithms, Mountainview, CA.</li>
+<li> <span style="color: gray">Fall 2022</span>: Intern at Google Research, Market Algorithms, Mountainview, CA.</li>
      </ul>
 </div>
 
