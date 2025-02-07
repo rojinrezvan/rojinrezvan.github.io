@@ -10,7 +10,7 @@ permalink: /publications/
 
 
 **A Multi-Dimensional Online Contention Resolution Scheme for Revenue Maximization**
-**with 	Shuchi Chawla, Dimitris Christou, Trung Dang, Zhiyi Huang and Gregory Kehne*\
+*with 	Shuchi Chawla, Dimitris Christou, Trung Dang, Zhiyi Huang and Gregory Kehne*\
 ACM-SIAM Symposium on Discrete Algorithms (SODA '25). [\[paper\]](https://arxiv.org/abs/2404.14679)
 
 
