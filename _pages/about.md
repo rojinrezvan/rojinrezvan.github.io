@@ -33,21 +33,21 @@ Email: rojinrezvan@utexas.edu
 <div style="margin-bottom: 20px;"></div>
 
 <ul>
-<li> **Prophet Secretary Against the Online Optimal**
-* with Paul Dütting, Evangelia Gergatsouli, Yifeng Teng and Alexandros Tsigonias-Dimitriadis *\
+<li> <b>Prophet Secretary Against the Online Optimal</b>
+ with Paul Dütting, Evangelia Gergatsouli, Yifeng Teng and Alexandros Tsigonias-Dimitriadis <br>
 ACM Conference on Economics and Computation (EC'23). <a href="https://arxiv.org/abs/2305.11144"> [Paper] </a> </li>
 
 
-<li>**Buy-Many Mechanisms for Many Unit-Demand Buyers**
-*with Shuchi Chawla Yifeng Teng and Christos Tzamos*\
+<li><b>Buy-Many Mechanisms for Many Unit-Demand Buyers</b>
+with Shuchi Chawla Yifeng Teng and Christos Tzamos<br>
 Web and Internet Economics (WINE'23)(Best Paper Award) <a href="https://arxiv.org/abs/2204.01962">[Paper]</a> </li>
 
-<li>**Individually-Fair Auctions for Multi-Slot Sponsored Search**
-*with  Shuchi Chawla and Nathaniel Sauerberg*\
+<li><b>Individually-Fair Auctions for Multi-Slot Sponsored Search</b>
+with  Shuchi Chawla and Nathaniel Sauerberg<br>
  Symposium on Foundations of Responsible Computing (FORC '22)(Best Student Paper Award) <a href="https://arxiv.org/abs/2204.04136">[Paper]</a> </li>
 
-<li>**Pricing Ordered Items**
-*with Shuchi Chawla, Yifeng Teng and Christos Tzamos*\
+<li><b>Pricing Ordered Items</b>
+with Shuchi Chawla, Yifeng Teng and Christos Tzamos<br>
 ACM SIGACT Symposium on Theory of Computing (STOC'22) <a href="https://arxiv.org/abs/2106.04704"> [Paper]</a></li>
 
 </ul>
@@ -63,7 +63,7 @@ For the full list of my publications, [click here](https://rojinrezvan.github.io
        
 <li> <span style="color: gray">Now</span>: I am currently on the job market for postdoc positions in Computer Science, Operations Research and Business School.</li>
 
-<li> <span style="color: gray">December 2024</span>: I was a speaker at <a href="https://theory.cs.northwestern.edu/junior-theorists-workshop-2024/">[Junior Theorist Workshop]</a> held at Northwestern university and TTIC. </li>
+<li> <span style="color: gray">December 2024</span>: I was a speaker at <a href="https://theory.cs.northwestern.edu/junior-theorists-workshop-2024/">Junior Theorist Workshop</a> held at Northwestern university and TTIC. </li>
 
 <li> <span style="color: gray">Fall 2022</span>: Intern at Google Research, Market Algorithms, Mountainview, CA.</li>
      </ul>
