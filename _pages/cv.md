@@ -1,10 +1,7 @@
-
 ---
-layout: archive
+layout: forward
+target: https://example.com
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
-hh
