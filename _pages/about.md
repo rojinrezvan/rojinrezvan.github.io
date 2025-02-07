@@ -63,7 +63,7 @@ For the full list of my publications, [click here](https://rojinrezvan.github.io
        
 <li> <span style="color: gray">Now</span>: I am currently on the job market for postdoc positions in Computer Science, Operations Research and Business School.</li>
 
-<li> <span style="color: gray">December 2024</span>: I was a speaker at the Junior Theorist Workshop held at Northwestern university and TTIC. <a href="https://theory.cs.northwestern.edu/junior-theorists-workshop-2024/"> </a> </li>
+<li> <span style="color: gray">December 2024</span>: I was a speaker at [Junior Theorist Workshop](https://theory.cs.northwestern.edu/junior-theorists-workshop-2024/) held at Northwestern university and TTIC. </li>
 
 <li> <span style="color: gray">Fall 2022</span>: Intern at Google Research, Market Algorithms, Mountainview, CA.</li>
      </ul>
