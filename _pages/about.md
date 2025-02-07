@@ -35,7 +35,7 @@ Email: rojinrezvan@utexas.edu
 <ul>
 <li> **Prophet Secretary Against the Online Optimal**
 * with Paul Dütting, Evangelia Gergatsouli, Yifeng Teng and Alexandros Tsigonias-Dimitriadis *\
-ACM Conference on Economics and Computation (EC'23). [\[paper\]](https://arxiv.org/abs/2305.11144)</li>
+ACM Conference on Economics and Computation (EC'23). <a href="https://arxiv.org/abs/2305.11144"> Paper </a> </li>
 
 
 <li>**Buy-Many Mechanisms for Many Unit-Demand Buyers**
