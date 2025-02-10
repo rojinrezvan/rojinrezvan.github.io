@@ -85,7 +85,7 @@ author:
   bio: |
     PhD candidate in Computer Science
     University of Texas at Austin
-  location         : "Austin"
+  location         : #"Austin"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UqCAvJIAAAAJ&hl=en"
