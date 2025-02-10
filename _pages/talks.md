@@ -24,7 +24,7 @@ author_profile: true
     <li><strong>Buy-Many Mechanisms for Many Unit-Demand Buyers</strong>
       <ul>
         <li><i>EnCore Student Social</i> (May 2023) </li>
-        <li><i>ACM Economics and Computation Tutorial (July 2023) </li>
+        <li><i>ACM Economics and Computation Tutorial </i>(July 2023) </li>
         <li><i>INFORMS Annual Meeting</i> (October 2024) - <b>Invited Speaker</b></li>
       </ul>
     </li>
@@ -32,7 +32,7 @@ author_profile: true
     <li><strong>Individually-Fair Auctions for Multi-Slot Sponsored Search</strong>
       <ul>
         <li><i>Symposium on Foundations of Responsible Computing (FORC) </i> (June 2022)</li>
-        <li><i>TOC4Fairness Seminar Series </i>(April 2023)</li>
+        <li><i>TOC4Fairness Seminar Series </i>(April 2023)-<b>Invited Speaker</b></li>
       </ul>
     </li>
     <br>
